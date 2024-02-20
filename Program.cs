@@ -3,7 +3,7 @@ using OOP;
 
 Console.WriteLine("Hello, World!");
 
-var newCar = new Car
+var newCar = new NormalCar
 {
     Id = 1,
     Ccm = 2000,
